@@ -10,6 +10,10 @@
 
 ![image](https://github.com/user-attachments/assets/21215d3a-943b-4b03-a93d-eb17b60981c4)
 
--Tercero: se crea un RPA que se dirija a un sitio web, extrae datos, los guarda en un Excel y ese archivo lo envía mediante correo electrónico:
+- Tercero: se crea un RPA que se dirija a un sitio web, extrae datos, los guarda en un Excel y ese archivo lo envía mediante correo electrónico:
 
 ![image](https://github.com/user-attachments/assets/8aeb5988-b924-4491-baf7-3a46935411f5)
+
+- Primero: se debe descargar PIX Studio del sitio Oficial.
+- Segundo: dependiendo el equipo en el que sea ejecutado, pedirá componentes adicionales(.NET Y Visual Studio 2022).
+- Tercero: para comprender lo que significa cada instrucción, estar previamente registrado para poder explorar la base de conocimientos de PIX Academy.
