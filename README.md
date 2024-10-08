@@ -16,7 +16,7 @@
 
 
 - Para poder comprender y mejorar estos scripts en PIX Studio se debe tener en cuenta:
-- 
+
 - Primero: se debe descargar PIX Studio del sitio Oficial.
 - Segundo: dependiendo el equipo en el que sea ejecutado, pedirá componentes adicionales(.NET Y Visual Studio 2022).
 - Tercero: para comprender lo que significa cada instrucción, estar previamente registrado para poder explorar la base de conocimientos de PIX Academy.
