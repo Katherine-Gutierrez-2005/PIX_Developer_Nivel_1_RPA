@@ -1,6 +1,6 @@
 # PIX_Developer_Nivel_1_RPA
 
--Este repositorio cuenta con los archivos trabajados durante 5 días, los mencionados a continuación es una demostración de lo mencionado:
+- Este repositorio cuenta con los archivos trabajados durante 5 días, los mencionados a continuación es una demostración de lo mencionado:
 
 - Primero: se crea un RPA que valide los valores de 2 variables, y acorde a eso, decida si continúa o no:
 
